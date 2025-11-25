@@ -4,9 +4,9 @@ using System.Text;
 
 namespace ConsoleApp1.LAB1
 {
-    internal class A1
+    internal class Lab_1_A1
     {
-        public static void RUN()
+        public static void Run()
         {
             Console.WriteLine("This is Lab-1 , Part-A,Code:1");
             Console.WriteLine("Dobariya Jeel ");

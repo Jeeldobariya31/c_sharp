@@ -4,7 +4,7 @@ using System.Text;
 
 namespace ConsoleApp1.LAB1
 {
-    internal class B4
+    internal class Lab_1_B4
     {
         public static void Run()
         {
