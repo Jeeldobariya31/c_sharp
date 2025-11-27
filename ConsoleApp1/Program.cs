@@ -23,5 +23,5 @@ using ConsoleApp1.LAB2;
 //Lab_2_C7.Run();
 //Lab_2_C8.Run();
 //Lab_2_C9.Run();
-Lab_2_C10.Run();
+//Lab_2_C10.Run();
 
