@@ -3,6 +3,7 @@ using ConsoleApp1.LAB2;
 using ConsoleApp1.LAB3;
 using ConsoleApp1.LAB4;
 using ConsoleApp1.LAB5;
+using ConsoleApp1.LAB6;
 
 //Lab-1
 //Lab_1_A1.Run();
@@ -60,3 +61,16 @@ using ConsoleApp1.LAB5;
 //Lab_5_C7.Run();
 //Lab_5_C8.Run();
 //Lab_5_C9.Run();
+
+
+//Lab-6 
+//Lab_6_A1.Run();
+//Lab_6_A2.Run();
+//Lab_6_A3.Run();
+//Lab_6_A4.Run();
+//Lab_6_B5.Run();
+//Lab_6_B6.Run();
+//Lab_6_B7.Run();
+//Lab_6_B8.Run();
+//Lab_6_C9.Run();
+//Lab_6_C10.Run();
